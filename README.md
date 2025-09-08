@@ -2,7 +2,7 @@
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
 
-![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
+![Modern Space Theme Portfolio using Next.js 14 and Three.js]("Modern Space Theme Portfolio using Next.js 14 and Three.js")
 
 <!-- Badges (updated to reflect your ownership) -->
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/indrayudh-saha "Ask Me Anything!")

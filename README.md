@@ -45,12 +45,9 @@
 3. Run `npm install --legacy-peer-deps` or `yarn install --legacy-peer-deps`.
 4. Start the dev server using `npm run dev` or `yarn dev`.
 
-## :camera: Screenshots:
+## 
 
-![Modern UI/UX](/.github/images/img1.png)
-![Showcase your skills](/.github/images/img2.png)
-![Built with Typescript](/.github/images/img3.png)
-![Showcase your projects](/.github/images/img4.png)
+
 
 ## :gear: Tech Stack
 
@@ -63,7 +60,6 @@
 
 ## :wrench: Stats
 
-[![Stats for Space Portfolio](/.github/images/stats.svg)](https://pagespeed.web.dev/analysis/https-spaceportfolio-netlify-app/2efbmg117d)
 
 ## :raised_hands: Contribute
 

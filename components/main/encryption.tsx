@@ -46,7 +46,7 @@ export const Encryption = () => {
 
       <div className="absolute z-[20] bottom-[10px] px-[5px]">
         <div className="cursive text-[25px] font-medium text-center text-gray-300">
-          Privacy isn't a feature — it's the foundation.
+          Privacy isn&apos;t a feature — it&apos;s the foundation.
         </div>
       </div>
 

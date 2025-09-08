@@ -2,7 +2,7 @@
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
 
-![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
+![Modern Space Theme Portfolio using Next.js 14 and Three.js]("Modern Space Theme Portfolio using Next.js 14 and Three.js")
 
 <!-- Badges (updated to reflect your ownership) -->
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/indrayudh-saha "Ask Me Anything!")
@@ -96,7 +96,7 @@ Leave a star if you liked it.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=indrayudh-saha/portfolio&type=Timeline&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=indrayudh-saha/portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=indrayudh-saha/portfolio&type=Timeline" />
+  
 </picture>
 </a>
 

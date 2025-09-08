@@ -96,7 +96,7 @@ Leave a star if you liked it.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=indrayudh-saha/portfolio&type=Timeline&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=indrayudh-saha/portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=indrayudh-saha/portfolio&type=Timeline" />
+  
 </picture>
 </a>
 

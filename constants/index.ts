@@ -96,18 +96,18 @@ export const FRONTEND_SKILL = [
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "Framer Motion",
-    image: "framer.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Stripe",
-    image: "stripe.png",
-    width: 80,
-    height: 80,
-  },
+  // {
+  //   skill_name: "Framer Motion",
+  //   image: "framer.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Stripe",
+  //   image: "stripe.png",
+  //   width: 80,
+  //   height: 80,
+  // },
 ] as const;
 
 export const BACKEND_SKILL = [

@@ -154,17 +154,23 @@ export const BACKEND_SKILL = [
     height: 80,
   },
   {
-    skill_name: "MySQL",
-    image: "mysql.png",
+    skill_name: "Convex",
+    image: "convex.png",
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "PostgreSQL",
-    image: "postgresql.png",
-    width: 80,
-    height: 80,
-  },
+  // {
+  //   skill_name: "MySQL",
+  //   image: "mysql.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "PostgreSQL",
+  //   image: "postgresql.png",
+  //   width: 80,
+  //   height: 80,
+  // },
 ] as const;
 
 export const OTHER_SKILL = [

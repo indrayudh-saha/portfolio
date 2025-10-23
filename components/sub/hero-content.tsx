@@ -53,7 +53,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-base sm:text-lg text-gray-400 my-3 sm:my-4 max-w-[500px] mx-auto md:mx-0"
         >
-          I&apos;m a full-stack developer. From&apos; design to deployment - I build performant, scalable applications with a focus on user experience and code quality .
+          I&apos;m a aspiring full-stack developer. From design to deployment - I build performant, scalable applications with a focus on user experience and code quality .
         </motion.p>
 
         {/* Call-to-Action Button */}

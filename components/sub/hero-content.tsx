@@ -37,14 +37,14 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.5)}
           className="text-3xl sm:text-4xl md:text-6xl font-bold text-white max-w-[600px] leading-tight"
         >
-          Hi, this is Indrayudh Saha — a.k.a.
+          Hi, this is Indrayudh Saha
           {" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-            Tarnished.<br />
+            <br />
           </span>{" "}
-          Always on the {" "}
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-            build.
+            {" "}
+          <span className=" text-4xl text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
+            building scalable web applications and solving real-world problems
           </span>
         </motion.h1>
 
@@ -53,7 +53,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-base sm:text-lg text-gray-400 my-3 sm:my-4 max-w-[500px] mx-auto md:mx-0"
         >
-          I&apos;m a full-stack developer. I&apos;m here to show you what happens when you hand a pen to a philosopher and a keyboard to a night-thinker.
+          I&apos;m a full-stack developer. From&apos; design to deployment - I build performant, scalable applications with a focus on user experience and code quality .
         </motion.p>
 
         {/* Call-to-Action Button */}

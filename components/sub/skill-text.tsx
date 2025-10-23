@@ -18,7 +18,7 @@ export const SkillText = () => {
       >
         
         <h1 className="Welcome-text text-[25px]">
-          Engine Room
+          My toolBox
         </h1>
       </motion.div>
 
@@ -26,14 +26,14 @@ export const SkillText = () => {
         variants={slideInFromLeft(0.5)}
         className="text-[35px] text-white font-medium mt-[10px] text-center mb-[15px]"
       >
-        Weapons of Choice
+        
       </motion.div>
 
       <motion.div
         variants={slideInFromRight(0.5)}
         className="cursive text-[25px] text-gray-200 mb-10 mt-[10px] text-center"
       >
-        If it’s in my head, it’s getting built.
+        Explore the technologies and tools I use to craft exceptional digital experiences.
       </motion.div>
     </div>
   );

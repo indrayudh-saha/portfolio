@@ -66,24 +66,14 @@ export const FRONTEND_SKILL = [
     width: 65,
     height: 65,
   },
-  {
-    skill_name: "Tailwind CSS",
-    image: "tailwind.png",
-    width: 80,
-    height: 80,
-  },
+  
   {
     skill_name: "React",
     image: "react.png",
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "Redux",
-    image: "redux.png",
-    width: 80,
-    height: 80,
-  },
+  
   {
     skill_name: "TypeScript",
     image: "ts.png",
@@ -147,12 +137,7 @@ export const BACKEND_SKILL = [
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "Spring Boot",
-    image: "springboot.png",
-    width: 80,
-    height: 80,
-  },
+ 
   {
     skill_name: "Convex",
     image: "convex.png",
@@ -174,12 +159,7 @@ export const BACKEND_SKILL = [
 ] as const;
 
 export const OTHER_SKILL = [
-  {
-    skill_name: "Docker",
-    image: "docker.png",
-    width: 80,
-    height: 80,
-  },
+  
   {
     skill_name: "Git",
     image: "git.png",
@@ -213,11 +193,7 @@ export const PROJECTS = [
     image: "/projects/image2.png",
     link: "" ,
   },
-  {
-    title: "EatWiselyBro - Health Food App",
-    image: "/projects/image3.png",
-    link: "https://eatwiselybro-55a75.web.app/",
-  },
+  
 ] as const;
 
 export const FOOTER_DATA = [
